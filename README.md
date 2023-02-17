@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
-<img src="https://img.shields.io/badge/blue?style=flat&logo=Java&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=XmlParser.java&fontSize=90" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 
 # XmlParser
 1. [/src/ex/util/XmlParserUtil.java](https://github.com/do2tdo2t/XmlParser/blob/master/src/ex/util/XmlParserUtil.java)
