@@ -1,3 +1,12 @@
 <xml>
-
+   <USER>
+     <USER_NAME>John<USER_NAME>
+     <AGE>29</AGE>
+     <JOB>FIREFIGHTER</JOB>
+   </USER>
+   <USER>
+     <USER_NAME>John<USER_NAME>
+     <AGE>32</AGE>
+     <JOB>POLICE</JOB>
+   </USER>
 </xml>
